@@ -26,13 +26,8 @@
 docuquest/
 ├── app.py                  # Streamlit UI
 ├── utils/
-│   ├── file_handler.py     # Handles PDF/Word/PPT file reading
 │   ├── text_extractor.py   # Extracts and cleans text
-│   ├── question_generator.py  # Generates questions using Cohere
-│   ├── ocr_utils.py        # OCR support for scanned PDFs
-├── output/
-│   ├── generated.txt       # Sample generated output
-│   └── generated.pdf       # PDF version of output
+├──cohere_question_generator.py  # Generates questions using Cohere
 ├── requirements.txt
 └── README.md
 ```
