@@ -1,0 +1,9 @@
+streamlit
+cohere
+PyMuPDF
+pdf2image
+pytesseract
+Pillow
+python-docx
+python-pptx
+fpdf
