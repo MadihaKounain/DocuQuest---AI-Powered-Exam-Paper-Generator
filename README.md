@@ -1,6 +1,6 @@
-# 📘 DocuQuest - AI-Powered Exam Paper Generator
+# 📘 DocuQuest - AI-Powered Question Generator
 
-**DocuQuest** is an intelligent document-based question paper generator. It allows you to upload any textbook, notes, or slides (PDF, Word, PPT) — even scanned PDFs — and automatically generates **MCQs** or **Descriptive Questions**, optionally with answers, using **Cohere AI**.
+**DocuQuest** is an intelligent document-based question generator. It allows you to upload any textbook, notes, or slides (PDF, Word, PPT) — even scanned PDFs — and automatically generates **MCQs** or **Descriptive Questions**, optionally with answers, using **Cohere AI**.
 
 ---
 
